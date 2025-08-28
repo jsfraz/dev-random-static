@@ -2,6 +2,8 @@
 
 Random TV static using `/dev/random`
 
+![Screenshot](screenshot.png)
+
 ```bash
 python -m venv .venv/
 source .venv/bin/activate
